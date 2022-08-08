@@ -1,6 +1,5 @@
 import time
 import os
-
 import numpy as np
 import gym
 import json
@@ -11,6 +10,7 @@ from utils.env_example import CustomEnv
 
 
 def main():
+	# ...
 	# choose the configuration file to load the corresponding env
 	# open(os.path.join('params', 'main_parameters_mountain_car.json'))
 	# open(os.path.join('params', 'main_parameters_my_env.json'))
